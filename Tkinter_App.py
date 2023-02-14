@@ -104,6 +104,7 @@ def app():
     button1 = tk.Button(appli, text="Decrypt", command=button_click2)
     button1.pack(pady=20)
 
+    # mainloop
     appli.mainloop()
 
 if __name__ == '__main__':
