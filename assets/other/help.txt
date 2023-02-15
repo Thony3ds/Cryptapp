@@ -1,0 +1,6 @@
+Welcome to the guide of the apps !! :)
+
+I: Terminal:
+    I.1 autorun_mod:
+        the autorun mod can be disabled with the python script 'assets/terminal_assets/reset_terminal.py'
+        if you have a problem with he, start the script !!

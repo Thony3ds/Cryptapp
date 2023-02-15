@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import font
 from assets import CryptApp
+from assets import TerminalCommand
+
 appli = tk.Tk()
 Ubuntu = font.Font(family='Ubuntu', size=18, weight='bold')
 
@@ -104,8 +106,8 @@ def app():
     button1 = tk.Button(appli, text="Decrypt", command=button_click2)
     button1.pack(pady=20)
 
-    # mainloop
     appli.mainloop()
 
 if __name__ == '__main__':
+    TerminalCommand.startSession()
     app()
