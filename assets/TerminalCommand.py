@@ -1,4 +1,4 @@
-import os
+import os, run_app
 
 def whileSession():
     running = True
@@ -9,7 +9,7 @@ def whileSession():
         elif command == "run":
             running = False
             print("Start CryptApp....")
-        elif "autorun" in command:
+        elif command == "autorun":
             autorun = input("please chose your autorun mod True/False: ")
             if autorun != "True" and autorun != "False":
                 print(f"error on the answer: {autorun}")
