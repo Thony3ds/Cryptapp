@@ -20,6 +20,15 @@ def whileSession():
                 print(f"finish to change the autorun's mod with {autorun} mod")
                 if autorun == "True":
                     print("for start use 'run' command :)")
+        elif command == "lang":
+            lang = input("Chose your language/Choisis ta langue english/frensh: ")
+            if lang == "english" or lang == "frensh":
+                file = open("assets/languages/langue.txt", "w")
+                file.write(lang)
+                file.close()
+                print(f"pass to {lang} mod succefuly !! (you need to restart the app to have {lang} mod)")
+            else:
+                print(f"error !! no find {lang} on language packages.")
         else:
             print(f"error we can read the command {command} please write 'help' to receved some help")
 def startSession():

@@ -1,0 +1,8 @@
+pour lancer l'application lance run_app.py
+pour crypter ou decrypter tu dois mettre ton fichier dans le dossier: 'crypt_decrypt_files'
+
+pour passer en mod français ecrit la commande 'lang' puis 'frensh' quand la commande est lancé
+
+pour plus d'aide va dans le dossier assets/other/help.txt
+
+Bonne utilisation

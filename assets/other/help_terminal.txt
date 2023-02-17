@@ -3,3 +3,4 @@ All Terminal commands:
 help    =see a help message
 run     =run CryptApp
 autorun   =def an auto run of the app True for on False for off (default value False) more infos on help.txt
+lang    =def a language on the system: english or frensh

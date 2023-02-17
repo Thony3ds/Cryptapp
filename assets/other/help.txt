@@ -4,3 +4,6 @@ I: Terminal:
     I.1 autorun_mod:
         the autorun mod can be disabled with the python script 'assets/terminal_assets/reset_terminal.py'
         if you have a problem with he, start the script !!
+    I.2 languages:
+        on the system the app have to versions full frensh and full english
+        for the moment the terminal are only in full english (we work to change it)

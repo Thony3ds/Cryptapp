@@ -1,0 +1,7 @@
+{
+  "Welcome": "Bienvenue sur CryptApp","Chose your option": "Choisis ton option", "Crypt": "Crypter", "Decrypt": "Decrypter",
+  "Entry your entry file": "Entre le nom du fichier d'entrée: ", "Send": "Valider", "Entry your exit file": "Entre le nom du fichier de sortie: ",
+  "Entry your crypt key": "Entre la clé de cryptage: ", "Send and start": "Valider et commencer le cryptage",
+  "Cryptage in progress please wait": "Cryptage en cour veuillez passienter....", "The process have finish": "Le cryptage est fini",
+  "The app will be autostop": "L'application va s'arreter dans 3 segonde au revoir :)"
+}

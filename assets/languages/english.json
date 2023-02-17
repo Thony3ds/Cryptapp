@@ -1,0 +1,7 @@
+{
+  "Welcome": "Welcome to CryptApp","Chose your option": "Chose your option", "Crypt": "Crypt", "Decrypt": "Decrypt",
+  "Entry your entry file": "Entry your entry file's name: ", "Send": "Send", "Entry your exit file": "Entry your exit file's name: ",
+  "Entry your crypt key": "Entry your crypt key: ", "Send and start": "Send and start to crypt",
+  "Cryptage in progress please wait": "Cryptage in progress please wait....", "The process have finish": "The process have finish",
+  "The app will be autostop": "The app will be autostop in 3s goodbye !! :)"
+}
