@@ -1,1 +1,2 @@
-todo:   mettre dans les 'inputs crypt_decrypt_files/' de base
+todo:   mettre une option pour créer un .key et le mettre avec le fichier .crypt/decrypt
+ todo la fenetre tk a into les 3 dernier Labels to correger SPEEDLY !!
