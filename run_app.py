@@ -40,7 +40,10 @@ def entryFile4():
         key.write(data.input_value3)
         key.close()
     exit = data.input_value2 + data.thextention
-    CryptApp.crypt_decrypt(entry_file=data.input_value1, exit_file=exit, key=data.input_value3)
+    try:
+        CryptApp.crypt_decrypt(entry_file=data.input_value1, exit_file=exit, key=data.input_value3)
+    except ValueError:
+        label5.config(text="Error !! :( to have more infos go to the terminal")
     global label6
     label6 = tk.Label(appli, text=JsonReader.readJson(toread="The process have finish", langue=data.json_readfile), font=Ubuntu, bg=data.color_bg, fg=data.color_written)
     label6.pack(pady=20)
