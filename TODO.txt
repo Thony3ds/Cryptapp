@@ -1,2 +1,0 @@
-todo:   mettre une option pour créer un .key et le mettre avec le fichier .crypt/decrypt
- todo la fenetre tk a into les 3 dernier Labels to correger SPEEDLY !!
